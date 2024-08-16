@@ -2,7 +2,7 @@ Becoming a power user in Linux, particularly on Arch Linux, involves mastering t
 
 ### **1. Master the Command Line:**
    - **Learn Bash/Zsh Scripting**: Write and understand shell scripts to automate repetitive tasks.
-     - 1. Resources: 
+     1. Resources: 
        1. "The Linux Command Line" by William Shotts
        2. "Bash Scripting Guide"
        3. "Zsh 101 and Oh My Zsh"
