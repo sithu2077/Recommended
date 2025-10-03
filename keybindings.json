@@ -1,4 +1,5 @@
 [
+  // Vim keybindings for VSCode
   // Navigation
   {
     "key": "ctrl-h",
